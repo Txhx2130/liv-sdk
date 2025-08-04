@@ -1,0 +1,18 @@
+{
+    "name": "Obi.Lck.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a7a5625c6f9c2d0479f8cfc58b84c32d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
